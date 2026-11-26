@@ -6,7 +6,7 @@ An experimental computer vision and target-tracking pipeline built to explore co
 >
 I used AI to write the code , but the PLANNING and ALGORITHM is all mine ( proud ) <3 
 ### Interesting thing is ,it plays better than AVG gamers and with 100% Accuracy !!!!!
-```text
+
 demo video : https://youtu.be/Q902f4eImyA
 
 1. Create your Virtual Environment
